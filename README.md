@@ -17,9 +17,9 @@ distributed systems · machine learning · full-stack
 
 ## projects
 
-**ticks** · [repo](https://github.com/Sxham04/Ticks)
-android home screen widget that visualizes any date range as a dot grid · each dot is one day, filled as time passes
-`kotlin` `android`
+**ticks** · [repo](https://github.com/Sxham04/Ticks)  
+android home screen widget that visualizes any date range as a dot grid · each dot is one day, filled as time passes  
+`kotlin` `android`  
 
 **lip reading pipeline** · [repo](https://github.com/Sxham04/lip_reading)  
 deep learning lipreader using 3d-cnn + bilstm with ctc loss · cer 32% / wer 32.2%  
