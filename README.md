@@ -22,7 +22,7 @@ deep learning lipreader using 3d-cnn + bilstm with ctc loss · cer 32% / wer 32.
 `tensorflow` `opencv` `python`
 
 **Ratemyprof** · [website](https://www.ratemyprofdit.com) · [repo](https://github.com/Sxham04/ratemyprofdit)  
-anonymous professor review platform for dit university · 225+ professors  
+anonymous professor review platform for my university · 225+ professors  
 `next.js` `prisma` `supabase` `nextauth`
 
 **P2P file transfer** · [repo](https://github.com/Sxham04/p2p-file-transfer)  
