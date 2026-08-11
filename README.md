@@ -29,7 +29,7 @@ anonymous professor review platform for my university · 225+ professors
 ring-topology swarming system in java · file owner seeds 100kb chunks, peers exchange missing pieces until all have the complete file  
 `java` `sockets` `multithreading`
 
-**AI resume–job matching** · [repo](https://github.com/Sxham04/resume-job-matching)  
+**AI resume–job matching** · [repo](https://github.com/Sxham04/Resume-Matcher)  
 nlp pipeline that ranks resumes against a job description using spacy cosine similarity · bulk pdf upload, text preprocessing, streamlit dashboard  
 `python` `spacy` `streamlit` `pymupdf`
 
