@@ -21,11 +21,11 @@ distributed systems · machine learning · full-stack
 deep learning lipreader using 3d-cnn + bilstm with ctc loss · cer 32% / wer 32.2%  
 `tensorflow` `opencv` `python`
 
-**Ratemyprof** · [website](https://www.ratemyprofdit.com) · [repo](https://github.com/Sxham04/ratemyprofdit)  
+**Ratemyprof** · [website](https://www.ratemyprofdit.com) · [repo](https://github.com/Sxham04/Rate-my-prof)  
 anonymous professor review platform for my university · 225+ professors  
 `next.js` `prisma` `supabase` `nextauth`
 
-**P2P file transfer** · [repo](https://github.com/Sxham04/p2p-file-transfer)  
+**P2P file transfer** · [repo](https://github.com/Sxham04/FileTransfer)  
 ring-topology swarming system in java · file owner seeds 100kb chunks, peers exchange missing pieces until all have the complete file  
 `java` `sockets` `multithreading`
 
