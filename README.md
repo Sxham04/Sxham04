@@ -17,6 +17,10 @@ distributed systems · machine learning · full-stack
 
 ## projects
 
+**Multi-agent healthcare RAG** · [repo](https://github.com/Sxham04/healthcare_rag)  
+offline multi-agent system routing queries to nlp-to-sql or rag agent over hospital pdfs · llama 3.2 orchestrator via ollama  
+`chromadb` `faiss` `sqlite` `streamlit` `python`  
+
 **Lip reading pipeline** · [repo](https://github.com/Sxham04/lip_reading)  
 deep learning lipreader using 3d-cnn + bilstm with ctc loss · cer 32% / wer 32.2%  
 `tensorflow` `opencv` `python`
