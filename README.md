@@ -45,4 +45,4 @@ android home screen widget that visualizes any date range as a dot grid · each 
 
 ## elsewhere
 
-[linkedin](https://www.linkedin.com/in/sharma-soham04/) · [kaggle](https://kaggle.com/sxham04) · [huggingface](https://huggingface.co/sxham04)
+[linkedin](https://www.linkedin.com/in/sxham04/) · [kaggle](https://kaggle.com/sxham04) · [huggingface](https://huggingface.co/sxham04)
