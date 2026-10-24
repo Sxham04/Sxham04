@@ -1,16 +1,16 @@
 # soham sharma
 
 B.tech cse @ DIT University, dehradun · 2023–2027  
-distributed systems · machine learning · full-stack
+machine learning · distributed systems · full-stack
 
 ---
 
 ## stack
 
-**languages** — python, java, javascript, sql, r, c  
+**languages** — python, java, javascript, sql, r  
 **ml / dl** — tensorflow, keras, scikit-learn, pytorch  
 **data** — pandas, numpy, opencv, spacy  
-**web** — next.js, react, node.js, streamlit  
+**web** — fastAPI, next.js, react, node.js, streamlit  
 **infra** — git, docker, supabase, postgresql
 
 ---
